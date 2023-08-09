@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+requires-python = ">=3.9.0"
+
+[tool.poetry]
+name = "TEP"
+version = "1.0.0"
+description = ""
+authors = ["Phachara Wuttisetpaiboon"]
